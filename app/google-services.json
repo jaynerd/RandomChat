@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "315446161793",
+    "firebase_url": "https://randomchat-72bf3.firebaseio.com",
+    "project_id": "randomchat-72bf3",
+    "storage_bucket": "randomchat-72bf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315446161793:android:474315aa3c227443",
+        "android_client_info": {
+          "package_name": "com.namyoon.randomchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315446161793-b1p4ofe6gfom9br5klif3v3f2avmg34m.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "315446161793-b1p4ofe6gfom9br5klif3v3f2avmg34m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Y4qg56b3N0FT18mHSoNUrAZLBgNASaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
